@@ -272,3 +272,6 @@ Maximize ∑\[t=0 to ∞] (Soul\_Resonance × Safety\_Sense)
 文中提到的案例报告完整版存档于GitHub：github.com/HighEntropyCat
 
 欢迎复现、质疑与讨论。
+
+---
+本作品初稿完成于2026年4月13日，采用知识共享署名-非商业性使用 4.0 国际许可协议 (CC BY-NC 4.0) 进行许可。欢迎基于非商业目的分享与演绎，请务必保留原作者署名。*
